@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mtari\\Desktop\\GITHUB\\ONLINESINAV\\OnlineSinav\\OnlineSinav.Data\\OnlineSinav.Data.csproj": {}
+    "C:\\Users\\mtari\\Desktop\\GITHUB\\ONLINEEXAMINATION\\OnlineSinav\\OnlineSinav.Data\\OnlineSinav.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mtari\\Desktop\\GITHUB\\ONLINESINAV\\OnlineSinav\\OnlineSinav.Data\\OnlineSinav.Data.csproj": {
+    "C:\\Users\\mtari\\Desktop\\GITHUB\\ONLINEEXAMINATION\\OnlineSinav\\OnlineSinav.Data\\OnlineSinav.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mtari\\Desktop\\GITHUB\\ONLINESINAV\\OnlineSinav\\OnlineSinav.Data\\OnlineSinav.Data.csproj",
+        "projectUniqueName": "C:\\Users\\mtari\\Desktop\\GITHUB\\ONLINEEXAMINATION\\OnlineSinav\\OnlineSinav.Data\\OnlineSinav.Data.csproj",
         "projectName": "OnlineSinav.Data",
-        "projectPath": "C:\\Users\\mtari\\Desktop\\GITHUB\\ONLINESINAV\\OnlineSinav\\OnlineSinav.Data\\OnlineSinav.Data.csproj",
+        "projectPath": "C:\\Users\\mtari\\Desktop\\GITHUB\\ONLINEEXAMINATION\\OnlineSinav\\OnlineSinav.Data\\OnlineSinav.Data.csproj",
         "packagesPath": "C:\\Users\\mtari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mtari\\Desktop\\GITHUB\\ONLINESINAV\\OnlineSinav\\OnlineSinav.Data\\obj\\",
+        "outputPath": "C:\\Users\\mtari\\Desktop\\GITHUB\\ONLINEEXAMINATION\\OnlineSinav\\OnlineSinav.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ilWRlof51uK5i0mippRd9vtKvqLCZoIbqAEBKEuqJSWfLOzaSZ1MNZ1GTc+FND/OJFv9U4oJpXz6INZgJmH9AA==",
+  "dgSpecHash": "weQky0ErrKKkdwQWY/QebAPH43HRt3rVxlsAXGAi0s//CxeXsgp0KDmni7JGSsz6k3jwzeLMOhggLj7E6f5iWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mtari\\Desktop\\GITHUB\\ONLINESINAV\\OnlineSinav\\OnlineSinav.ViewModels\\OnlineSinav.ViewModels.csproj",
+  "projectFilePath": "C:\\Users\\mtari\\Desktop\\GITHUB\\ONLINEEXAMINATION\\OnlineSinav\\OnlineSinav.ViewModels\\OnlineSinav.ViewModels.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mtari\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.0\\microsoft.entityframeworkcore.5.0.0.nupkg.sha512",
     "C:\\Users\\mtari\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.0\\microsoft.entityframeworkcore.abstractions.5.0.0.nupkg.sha512",
