@@ -1,4 +1,5 @@
-﻿using System;
+﻿using OnlineSinav.Data.Model;
+using System;
 using System.ComponentModel.DataAnnotations;
 
 namespace OnlineSinav.ViewModels
@@ -6,10 +7,26 @@ namespace OnlineSinav.ViewModels
     public class UserViewModel
     {
 
-        public UserViewModel()
+        public UserViewModel(Users model)
         {
-
+            ID = model.ID;
+            Name = model.Name ?? "";
+            UserName = model.UserName;
+            Password = model.Password;
+            Role = model.Role;
         }
+        public Users ContentViewModel(UserViewModel vm)
+        {
+            return new Users
+            {
+                ID = vm.ID,
+                Name = vm.Name,
+                UserName = vm.UserName,
+                Password = vm.Password,
+                Role = vm.Role,
+            };
+        }
+
         public int ID { get; set; }
 
         [Required]
