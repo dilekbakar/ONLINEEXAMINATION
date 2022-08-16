@@ -8,3 +8,13 @@ C:\Users\mtari\Desktop\GITHUB\ONLINESINAV\OnlineSinav\OnlineSinav.Data\obj\Debug
 C:\Users\mtari\Desktop\GITHUB\ONLINESINAV\OnlineSinav\OnlineSinav.Data\obj\Debug\netcoreapp3.1\OnlineSinav.Data.csproj.CoreCompileInputs.cache
 C:\Users\mtari\Desktop\GITHUB\ONLINESINAV\OnlineSinav\OnlineSinav.Data\obj\Debug\netcoreapp3.1\OnlineSinav.Data.dll
 C:\Users\mtari\Desktop\GITHUB\ONLINESINAV\OnlineSinav\OnlineSinav.Data\obj\Debug\netcoreapp3.1\OnlineSinav.Data.pdb
+C:\Users\htunahan\Desktop\DİLEK\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Data\bin\Debug\netcoreapp3.1\OnlineSinav.Data.deps.json
+C:\Users\htunahan\Desktop\DİLEK\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Data\bin\Debug\netcoreapp3.1\OnlineSinav.Data.dll
+C:\Users\htunahan\Desktop\DİLEK\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Data\bin\Debug\netcoreapp3.1\OnlineSinav.Data.pdb
+C:\Users\htunahan\Desktop\DİLEK\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Data\obj\Debug\netcoreapp3.1\OnlineSinav.Data.csproj.AssemblyReference.cache
+C:\Users\htunahan\Desktop\DİLEK\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Data\obj\Debug\netcoreapp3.1\OnlineSinav.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\htunahan\Desktop\DİLEK\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Data\obj\Debug\netcoreapp3.1\OnlineSinav.Data.AssemblyInfoInputs.cache
+C:\Users\htunahan\Desktop\DİLEK\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Data\obj\Debug\netcoreapp3.1\OnlineSinav.Data.AssemblyInfo.cs
+C:\Users\htunahan\Desktop\DİLEK\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Data\obj\Debug\netcoreapp3.1\OnlineSinav.Data.csproj.CoreCompileInputs.cache
+C:\Users\htunahan\Desktop\DİLEK\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Data\obj\Debug\netcoreapp3.1\OnlineSinav.Data.dll
+C:\Users\htunahan\Desktop\DİLEK\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Data\obj\Debug\netcoreapp3.1\OnlineSinav.Data.pdb

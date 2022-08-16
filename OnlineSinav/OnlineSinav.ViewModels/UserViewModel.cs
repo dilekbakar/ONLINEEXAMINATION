@@ -20,7 +20,7 @@ namespace OnlineSinav.ViewModels
             return new Users
             {
                 ID = vm.ID,
-                Name = vm.Name,
+                Name = vm.Name ?? "",
                 UserName = vm.UserName,
                 Password = vm.Password,
                 Role = vm.Role,
@@ -34,7 +34,7 @@ namespace OnlineSinav.ViewModels
         public string Name { get; set; }
 
         [Required]
-        [Display(Name = "Name")]
+        [Display(Name = "User Name")]
         public string UserName { get; set; }
 
         [Required]
