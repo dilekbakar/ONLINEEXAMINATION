@@ -1,0 +1,5 @@
+C:\Users\htunahan\Desktop\DİLEK\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.ViewModels\obj\Debug\netcoreapp3.1\OnlineSinav.ViewModels.csproj.AssemblyReference.cache
+C:\Users\htunahan\Desktop\DİLEK\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.ViewModels\obj\Debug\netcoreapp3.1\OnlineSinav.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\htunahan\Desktop\DİLEK\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.ViewModels\obj\Debug\netcoreapp3.1\OnlineSinav.ViewModels.AssemblyInfoInputs.cache
+C:\Users\htunahan\Desktop\DİLEK\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.ViewModels\obj\Debug\netcoreapp3.1\OnlineSinav.ViewModels.AssemblyInfo.cs
+C:\Users\htunahan\Desktop\DİLEK\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.ViewModels\obj\Debug\netcoreapp3.1\OnlineSinav.ViewModels.csproj.CoreCompileInputs.cache
