@@ -10,6 +10,10 @@ namespace OnlineSinav.ViewModels
 {
     public class StudentViewModel
     {
+        public StudentViewModel()
+        {
+
+        }
         public int ID { get; set; }
 
 

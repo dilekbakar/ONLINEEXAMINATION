@@ -3,6 +3,7 @@ using OnlineSinav.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace OnlineSinav.BLL.Services
 {
@@ -25,7 +26,10 @@ namespace OnlineSinav.BLL.Services
 
         public LoginViewModel Login(LoginViewModel vm)
         {
-            throw new NotImplementedException();
+            if (vm.Role == (int))
+            {
+
+            }
         }
     }
 }

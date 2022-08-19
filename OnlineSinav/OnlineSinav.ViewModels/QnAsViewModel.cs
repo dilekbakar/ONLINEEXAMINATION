@@ -65,15 +65,15 @@ namespace OnlineSinav.ViewModels
             return new QnAs
             {
                 ID = vm.ID,
-            ExamsID = vm.ExamsID,
-            Question = vm.Question ?? "",
-            Option1 = vm.Option1 ?? "",
-            Option2 = vm.Option2 ?? "",
-            Option3 = vm.Option3 ?? "",
-            Option4 = vm.Option4 ?? "",
-            Option5 = vm.Option5 ?? "",
-            Answer = vm.Answer
-        };
+                ExamsID = vm.ExamsID,
+                Question = vm.Question ?? "",
+                Option1 = vm.Option1 ?? "",
+                Option2 = vm.Option2 ?? "",
+                Option3 = vm.Option3 ?? "",
+                Option4 = vm.Option4 ?? "",
+                Option5 = vm.Option5 ?? "",
+                Answer = vm.Answer
+            };
+        }
     }
-}
 }
