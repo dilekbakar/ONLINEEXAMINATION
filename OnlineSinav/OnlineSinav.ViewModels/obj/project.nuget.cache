@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KvuyWPo2DIJVRvL9XWRjMdo7tFFtBysk1O70pNgGaVh20Z6VjF3nOg56ePAv6BvodMF7FQF393Vl46fQgqKaxQ==",
+  "dgSpecHash": "yQ+idWbknZBmzz/z5vPWnYZwxHFE4IhsxYBqsGnVdoQ/hwBL7jIXN/WlnRuZnV0TIlhrvkj0gvzlJsNIOmto0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\htunahan\\Desktop\\DİLEK\\ONLINEEXAMINATION\\OnlineSinav\\OnlineSinav.ViewModels\\OnlineSinav.ViewModels.csproj",
+  "projectFilePath": "C:\\Users\\htunahan\\Documents\\DİLEK\\ONLINEEXAMINATION\\OnlineSinav\\OnlineSinav.ViewModels\\OnlineSinav.ViewModels.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\htunahan\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
     "C:\\Users\\htunahan\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.0\\microsoft.entityframeworkcore.5.0.0.nupkg.sha512",

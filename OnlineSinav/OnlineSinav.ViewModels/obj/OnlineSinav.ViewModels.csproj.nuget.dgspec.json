@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\htunahan\\Desktop\\DİLEK\\ONLINEEXAMINATION\\OnlineSinav\\OnlineSinav.ViewModels\\OnlineSinav.ViewModels.csproj": {}
+    "C:\\Users\\htunahan\\Documents\\DİLEK\\ONLINEEXAMINATION\\OnlineSinav\\OnlineSinav.ViewModels\\OnlineSinav.ViewModels.csproj": {}
   },
   "projects": {
-    "C:\\Users\\htunahan\\Desktop\\DİLEK\\ONLINEEXAMINATION\\OnlineSinav\\OnlineSinav.Data\\OnlineSinav.Data.csproj": {
+    "C:\\Users\\htunahan\\Documents\\DİLEK\\ONLINEEXAMINATION\\OnlineSinav\\OnlineSinav.Data\\OnlineSinav.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\htunahan\\Desktop\\DİLEK\\ONLINEEXAMINATION\\OnlineSinav\\OnlineSinav.Data\\OnlineSinav.Data.csproj",
+        "projectUniqueName": "C:\\Users\\htunahan\\Documents\\DİLEK\\ONLINEEXAMINATION\\OnlineSinav\\OnlineSinav.Data\\OnlineSinav.Data.csproj",
         "projectName": "OnlineSinav.Data",
-        "projectPath": "C:\\Users\\htunahan\\Desktop\\DİLEK\\ONLINEEXAMINATION\\OnlineSinav\\OnlineSinav.Data\\OnlineSinav.Data.csproj",
+        "projectPath": "C:\\Users\\htunahan\\Documents\\DİLEK\\ONLINEEXAMINATION\\OnlineSinav\\OnlineSinav.Data\\OnlineSinav.Data.csproj",
         "packagesPath": "C:\\Users\\htunahan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\htunahan\\Desktop\\DİLEK\\ONLINEEXAMINATION\\OnlineSinav\\OnlineSinav.Data\\obj\\",
+        "outputPath": "C:\\Users\\htunahan\\Documents\\DİLEK\\ONLINEEXAMINATION\\OnlineSinav\\OnlineSinav.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\htunahan\\Desktop\\DİLEK\\ONLINEEXAMINATION\\OnlineSinav\\OnlineSinav.ViewModels\\OnlineSinav.ViewModels.csproj": {
+    "C:\\Users\\htunahan\\Documents\\DİLEK\\ONLINEEXAMINATION\\OnlineSinav\\OnlineSinav.ViewModels\\OnlineSinav.ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\htunahan\\Desktop\\DİLEK\\ONLINEEXAMINATION\\OnlineSinav\\OnlineSinav.ViewModels\\OnlineSinav.ViewModels.csproj",
+        "projectUniqueName": "C:\\Users\\htunahan\\Documents\\DİLEK\\ONLINEEXAMINATION\\OnlineSinav\\OnlineSinav.ViewModels\\OnlineSinav.ViewModels.csproj",
         "projectName": "OnlineSinav.ViewModels",
-        "projectPath": "C:\\Users\\htunahan\\Desktop\\DİLEK\\ONLINEEXAMINATION\\OnlineSinav\\OnlineSinav.ViewModels\\OnlineSinav.ViewModels.csproj",
+        "projectPath": "C:\\Users\\htunahan\\Documents\\DİLEK\\ONLINEEXAMINATION\\OnlineSinav\\OnlineSinav.ViewModels\\OnlineSinav.ViewModels.csproj",
         "packagesPath": "C:\\Users\\htunahan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\htunahan\\Desktop\\DİLEK\\ONLINEEXAMINATION\\OnlineSinav\\OnlineSinav.ViewModels\\obj\\",
+        "outputPath": "C:\\Users\\htunahan\\Documents\\DİLEK\\ONLINEEXAMINATION\\OnlineSinav\\OnlineSinav.ViewModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -99,8 +99,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\htunahan\\Desktop\\DİLEK\\ONLINEEXAMINATION\\OnlineSinav\\OnlineSinav.Data\\OnlineSinav.Data.csproj": {
-                "projectPath": "C:\\Users\\htunahan\\Desktop\\DİLEK\\ONLINEEXAMINATION\\OnlineSinav\\OnlineSinav.Data\\OnlineSinav.Data.csproj"
+              "C:\\Users\\htunahan\\Documents\\DİLEK\\ONLINEEXAMINATION\\OnlineSinav\\OnlineSinav.Data\\OnlineSinav.Data.csproj": {
+                "projectPath": "C:\\Users\\htunahan\\Documents\\DİLEK\\ONLINEEXAMINATION\\OnlineSinav\\OnlineSinav.Data\\OnlineSinav.Data.csproj"
               }
             }
           }

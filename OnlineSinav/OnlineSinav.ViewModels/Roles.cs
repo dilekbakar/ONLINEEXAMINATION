@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OnlineSinav.ViewModels
 {
-    public enum Enum
+    public enum EnumRoles
     {
         Admin = 1,
         Teacher = 2,
