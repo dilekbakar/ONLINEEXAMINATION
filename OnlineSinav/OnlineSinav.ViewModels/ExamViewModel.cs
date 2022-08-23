@@ -8,6 +8,10 @@ namespace OnlineSinav.ViewModels
 {
     public class ExamViewModel
     {
+        public ExamViewModel()
+        {
+
+        }
         public int ID { get; set; }
 
         [Required]
@@ -30,7 +34,7 @@ namespace OnlineSinav.ViewModels
             GroupsID = model.GroupsID;
 
         }
-        public Exams ContentViewModel(ExamViewModel vm)
+        public Exams ConvertViewModel(ExamViewModel vm)
         {
             return new Exams
             {

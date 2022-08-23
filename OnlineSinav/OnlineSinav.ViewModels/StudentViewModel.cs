@@ -24,7 +24,7 @@ namespace OnlineSinav.ViewModels
 
         [Required]
         [Display(Name = "User Name")]
-        public int UserName { get; set; }
+        public string UserName { get; set; }
 
         [Required]
         public string Password { get; set; }
@@ -58,7 +58,7 @@ namespace OnlineSinav.ViewModels
             GroupsID = model.GroupsID;
         }
 
-        public Students ContentViewModel(StudentViewModel vm)
+        public Students ConvertViewModel(StudentViewModel vm)
         {
             return new Students
             {

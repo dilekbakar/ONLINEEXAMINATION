@@ -23,7 +23,26 @@ namespace OnlineSinav.BLL.Services
 
         public bool AddTeacher(UserViewModel vm)
         {
-            throw new NotImplementedException();
+            
+            try
+            {
+                Users obj = new Users()
+                {
+                    Name = vm.Name,
+                    UserName = vm.UserName,
+                    Password = vm.Password,
+                    Role = (int)EnumRoles.Teacher
+                };
+                _unitOfWork.GenericRepository<Users>().AddAsync(obj);
+                _unitOfWork.Save();
+
+            }
+            catch (Exception ex)
+            {
+                _iLogger.LogError(ex.Message);
+                return false;
+            }
+            return true;
         }
 
         public PagedResult<UserViewModel> GetAllTeacher(int pageNumber, int pageSize)
@@ -56,33 +75,37 @@ namespace OnlineSinav.BLL.Services
             };
             return results;
 
-    }
-
-    public LoginViewModel Login(LoginViewModel vm)
-    {
-        if (vm.Role == (int)EnumRoles.Admin || vm.Role == (int)EnumRoles.Teacher)
+        }
+        private List<UserViewModel> ListInfo(List<Users> modelList)
         {
-            var user = _unitOfWork.GenericRepository<Users>().GetAll().
-                FirstOrDefault(a => a.UserName == vm.UserName.Trim() &&
-                a.Password == vm.Password.Trim() && a.Role == vm.Role);
-            if (user != null)
+            return modelList.Select(o => new UserViewModel(o)).ToList();
+        }
+
+        public LoginViewModel Login(LoginViewModel vm)
+        {
+            if (vm.Role == (int)EnumRoles.Admin || vm.Role == (int)EnumRoles.Teacher)
             {
-                vm.ID = user.ID;
+                var user = _unitOfWork.GenericRepository<Users>().GetAll().
+                    FirstOrDefault(a => a.UserName == vm.UserName.Trim() &&
+                    a.Password == vm.Password.Trim() && a.Role == vm.Role);
+                if (user != null)
+                {
+                    vm.ID = user.ID;
+                    return vm;
+                }
+            }
+            else
+            {
+                var student = _unitOfWork.GenericRepository<Students>().GetAll().
+                    FirstOrDefault(a => a.UserName == vm.UserName && a.Password == vm.Password.Trim());
+                if (student != null)
+                {
+                    vm.ID = student.ID;
+                }
                 return vm;
             }
-        }
-        else
-        {
-            var student = _unitOfWork.GenericRepository<Students>().GetAll().
-                FirstOrDefault(a => a.UserName == vm.UserName && a.Password == vm.Password.Trim());
-            if (student != null)
-            {
-                vm.ID = student.ID;
-            }
-            return vm;
-        }
-        return null;
+            return null;
 
+        }
     }
-}
 }

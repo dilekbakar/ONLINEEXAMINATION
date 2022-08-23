@@ -19,7 +19,7 @@ namespace OnlineSinav.ViewModels
             Password = model.Password;
             Role = model.Role;
         }
-        public Users ContentViewModel(UserViewModel vm)
+        public Users ConvertViewModel(UserViewModel vm)
         {
             return new Users
             {

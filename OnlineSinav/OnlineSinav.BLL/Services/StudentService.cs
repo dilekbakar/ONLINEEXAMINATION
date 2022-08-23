@@ -25,7 +25,7 @@ namespace OnlineSinav.BLL.Services
         {
             try
             {
-                Students obj = vm.ContentViewModel(vm);
+                Students obj = vm.ConvertViewModel(vm);
                 await _unitOfWork.GenericRepository<Students>().AddAsync(obj);
             }
             catch (Exception ex)

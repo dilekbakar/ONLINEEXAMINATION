@@ -9,6 +9,10 @@ namespace OnlineSinav.ViewModels
 {
     public class GroupViewModel
     {
+        public GroupViewModel()
+        {
+
+        }
         public int ID { get; set; }
 
         [Required]
@@ -31,7 +35,7 @@ namespace OnlineSinav.ViewModels
             UsersID = model.UsersID;
 
         }
-        public Groups ContentViewModel(GroupViewModel vm)
+        public Groups ConvertGroupsViewModel(GroupViewModel vm)
         {
             return new Groups
             {

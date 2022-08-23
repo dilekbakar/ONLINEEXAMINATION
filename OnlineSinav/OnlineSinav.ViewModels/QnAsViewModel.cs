@@ -8,6 +8,10 @@ namespace OnlineSinav.ViewModels
 {
     public class QnAsViewModel
     {
+        public QnAsViewModel()
+        {
+
+        }
         public int ID { get; set; }
 
         [Required]
@@ -60,7 +64,7 @@ namespace OnlineSinav.ViewModels
             Answer = model.Answer;
 
         }
-        public QnAs ContentViewModel(QnAsViewModel vm)
+        public QnAs ConvertViewModel(QnAsViewModel vm)
         {
             return new QnAs
             {
