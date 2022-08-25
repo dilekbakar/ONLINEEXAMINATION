@@ -1,0 +1,41 @@
+﻿@model OnlineSinav.ViewModels.AttendExamViewModel
+
+@{
+    ViewData["Title"] = "AttendExam";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>@Model.ExamName</h1>
+
+<h3>ExamPaper</h3>
+
+@if(Model.Message=="")
+{
+    <form asp-action="AttendExam" asp-controller="Students" method="post">
+        <input type="hidden" asp-for="StudentID"/>
+        <ul>
+            @for(var i=0; i<Model.QnAs.Count(); i++)
+            {
+                <input type="hidden" asp-for="@Model.QnAs[i].ID">
+                <input type="hidden" asp-for="@Model.QnAs[i].ExamsID">
+                <li>
+                    <label for="@Model.QnAs[i].Question">@Model.QnAs[i].Question</label>
+                </li>
+                <li>
+                    <select asp-for="@Model.QnAs[i].SelectedAnswer" class="form-control">
+                        <option value="1">@Model.QnAs[i].Option1</option>
+                        <option value="2">@Model.QnAs[i].Option2</option>
+                        <option value="3">@Model.QnAs[i].Option3</option>
+                        <option value="4">@Model.QnAs[i].Option4</option>
+                        <option value="5">@Model.QnAs[i].Option5</option>
+                    </select>
+                </li>
+            }
+        </ul>
+        <button type="submit" name="action">Submit</button>
+    </form>
+}
+else
+{
+    <p style="font-size: 30px; color: red; text-align: center;">@Model.Message</p>
+}

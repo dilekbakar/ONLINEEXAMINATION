@@ -288,3 +288,7 @@ C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Web\obj\D
 C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Web\obj\Debug\netcoreapp3.1\OnlineSinav.Web.pdb
 C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Web\obj\Debug\netcoreapp3.1\OnlineSinav.Web.genruntimeconfig.cache
 C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Web\obj\Debug\netcoreapp3.1\Razor\Views\Student\Create.cshtml.g.cs
+C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Web\obj\Debug\netcoreapp3.1\Razor\Views\Student\Profile.cshtml.g.cs
+C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Web\obj\Debug\netcoreapp3.1\Razor\Views\Student\AttendExam.cshtml.g.cs
+C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Web\obj\Debug\netcoreapp3.1\Razor\Views\Student\Result.cshtml.g.cs
+C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Web\obj\Debug\netcoreapp3.1\Razor\Views\Student\ViewResult.cshtml.g.cs
