@@ -16,3 +16,16 @@ C:\Users\htunahan\Documents\DİLEK\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Vie
 C:\Users\htunahan\Documents\DİLEK\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.ViewModels\obj\Debug\netcoreapp3.1\OnlineSinav.ViewModels.csproj.CopyComplete
 C:\Users\htunahan\Documents\DİLEK\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.ViewModels\obj\Debug\netcoreapp3.1\OnlineSinav.ViewModels.dll
 C:\Users\htunahan\Documents\DİLEK\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.ViewModels\obj\Debug\netcoreapp3.1\OnlineSinav.ViewModels.pdb
+C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.ViewModels\bin\Debug\netcoreapp3.1\OnlineSinav.ViewModels.deps.json
+C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.ViewModels\bin\Debug\netcoreapp3.1\OnlineSinav.ViewModels.dll
+C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.ViewModels\bin\Debug\netcoreapp3.1\OnlineSinav.ViewModels.pdb
+C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.ViewModels\bin\Debug\netcoreapp3.1\OnlineSinav.Data.dll
+C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.ViewModels\bin\Debug\netcoreapp3.1\OnlineSinav.Data.pdb
+C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.ViewModels\obj\Debug\netcoreapp3.1\OnlineSinav.ViewModels.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.ViewModels\obj\Debug\netcoreapp3.1\OnlineSinav.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.ViewModels\obj\Debug\netcoreapp3.1\OnlineSinav.ViewModels.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.ViewModels\obj\Debug\netcoreapp3.1\OnlineSinav.ViewModels.AssemblyInfo.cs
+C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.ViewModels\obj\Debug\netcoreapp3.1\OnlineSinav.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.ViewModels\obj\Debug\netcoreapp3.1\OnlineSinav.ViewModels.csproj.CopyComplete
+C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.ViewModels\obj\Debug\netcoreapp3.1\OnlineSinav.ViewModels.dll
+C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.ViewModels\obj\Debug\netcoreapp3.1\OnlineSinav.ViewModels.pdb

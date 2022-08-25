@@ -24,7 +24,7 @@
                     <tr>
                         <td>@item.Name</td>
                         <td>@item.UserName</td>
-                        <td>GTeacher</td>
+                        <td>Teacher</td>
                     </tr>
                 }
             </tbody>
@@ -42,14 +42,14 @@
                   cs-pager-link-other-class="page-link">
         </cs-pager>
     </div>
-    </div>
-    @section scripts {
-        <script>
-            $(document).ready(function (){
-                $('#userGrid').DataTable({
-                    "paging":false,
-                    "filter":true
-                })
+</div>
+@section scripts {
+    <script>
+        $(document).ready(function () {
+            $('#userGrid').DataTable({
+                "paging": false,
+                "filter": true
             })
-        </script>
+        })
+    </script>
     }

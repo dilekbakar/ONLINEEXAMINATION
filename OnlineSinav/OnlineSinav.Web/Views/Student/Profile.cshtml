@@ -1,0 +1,73 @@
+﻿@model OnlineSinav.ViewModels.StudentViewModel
+
+@{
+    ViewData["Title"] = "Profile";
+}
+
+<h1>Profile</h1>
+
+<h4>StudentViewModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Profile">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ID" class="control-label"></label>
+                <input asp-for="ID" class="form-control" />
+                <span asp-validation-for="ID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UserName" class="control-label"></label>
+                <input asp-for="UserName" class="form-control" />
+                <span asp-validation-for="UserName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Contact" class="control-label"></label>
+                <input asp-for="Contact" class="form-control" />
+                <span asp-validation-for="Contact" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CVFileName" class="control-label"></label>
+                <input asp-for="CVFileName" class="form-control" />
+                <span asp-validation-for="CVFileName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PictureFileName" class="control-label"></label>
+                <input asp-for="PictureFileName" class="form-control" />
+                <span asp-validation-for="PictureFileName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GroupsID" class="control-label"></label>
+                <input asp-for="GroupsID" class="form-control" />
+                <span asp-validation-for="GroupsID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TotalCount" class="control-label"></label>
+                <input asp-for="TotalCount" class="form-control" />
+                <span asp-validation-for="TotalCount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

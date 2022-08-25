@@ -31,3 +31,16 @@ C:\Users\htunahan\Documents\DİLEK\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Dat
 C:\Users\htunahan\Documents\DİLEK\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Data\obj\Debug\netcoreapp3.1\OnlineSinav.Data.dll
 C:\Users\htunahan\Documents\DİLEK\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Data\obj\Debug\netcoreapp3.1\OnlineSinav.Data.pdb
 C:\Users\htunahan\Documents\DİLEK\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Data\obj\Debug\netcoreapp3.1\OnlineSinav.Data.genruntimeconfig.cache
+C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Data\bin\Debug\netcoreapp3.1\OnlineSinav.Data.deps.json
+C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Data\bin\Debug\netcoreapp3.1\OnlineSinav.Data.runtimeconfig.json
+C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Data\bin\Debug\netcoreapp3.1\OnlineSinav.Data.runtimeconfig.dev.json
+C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Data\bin\Debug\netcoreapp3.1\OnlineSinav.Data.dll
+C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Data\bin\Debug\netcoreapp3.1\OnlineSinav.Data.pdb
+C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Data\obj\Debug\netcoreapp3.1\OnlineSinav.Data.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Data\obj\Debug\netcoreapp3.1\OnlineSinav.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Data\obj\Debug\netcoreapp3.1\OnlineSinav.Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Data\obj\Debug\netcoreapp3.1\OnlineSinav.Data.AssemblyInfo.cs
+C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Data\obj\Debug\netcoreapp3.1\OnlineSinav.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Data\obj\Debug\netcoreapp3.1\OnlineSinav.Data.dll
+C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Data\obj\Debug\netcoreapp3.1\OnlineSinav.Data.pdb
+C:\Users\user\Desktop\GITHUB\ONLINEEXAMINATION\OnlineSinav\OnlineSinav.Data\obj\Debug\netcoreapp3.1\OnlineSinav.Data.genruntimeconfig.cache
