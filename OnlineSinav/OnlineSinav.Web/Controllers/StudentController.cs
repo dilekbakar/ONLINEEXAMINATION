@@ -28,6 +28,7 @@ namespace OnlineSinav.Web.Controllers
         {
             return View(_studentService.GetAll(pageNumber, pageSize));
         }
+       [HttpGet]
         public IActionResult Create()
         {
             return View();

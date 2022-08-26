@@ -10,8 +10,8 @@ using OnlineSinav.Data.Data;
 namespace OnlineSinav.Data.Migrations
 {
     [DbContext(typeof(OnlineSinavDBContext))]
-    [Migration("20220823131924_Init")]
-    partial class Init
+    [Migration("20220826112607_addedFirstMigration")]
+    partial class addedFirstMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

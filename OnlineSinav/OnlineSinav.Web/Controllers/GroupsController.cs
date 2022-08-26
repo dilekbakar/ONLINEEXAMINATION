@@ -22,10 +22,12 @@ namespace OnlineSinav.Web.Controllers
         {
             return View(_groupService.GetAllGroups(pageNumber,pageSize));
         }
+        [HttpGet]
         public IActionResult Create()
         {
             return View();
         }
+        [HttpPost]
         public async Task<IActionResult> Create(GroupViewModel groupViewModel)
         {
             if (ModelState.IsValid)

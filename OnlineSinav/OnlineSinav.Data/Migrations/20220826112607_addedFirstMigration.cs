@@ -4,7 +4,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
 namespace OnlineSinav.Data.Migrations
 {
-    public partial class Init : Migration
+    public partial class addedFirstMigration : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
